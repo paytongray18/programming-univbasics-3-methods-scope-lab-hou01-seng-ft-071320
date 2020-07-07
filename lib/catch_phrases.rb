@@ -1,3 +1,5 @@
+$all_phrases = mario, toadstool, link
+
 def mario
   phrase = "It's-a me, Mario!"
   puts phrase
@@ -13,5 +15,5 @@ def link
   puts phrase
 end
 
-all_phrases = mario,toadstool,link
+
   
